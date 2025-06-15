@@ -1,0 +1,17 @@
+{
+  "name": "novaviewer3d",
+  "version": "1.0.0",
+  "description": "Visor 3D de skins de Minecraft hecho con WebGL",
+  "main": "cubeEngine.js",
+  "keywords": [
+    "minecraft",
+    "skin",
+    "viewer",
+    "3d",
+    "webgl",
+    "canvas",
+    "novastep"
+  ],
+  "author": "NovaStepStudios",
+  "license": "MIT"
+}
